@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/kevingao/blazor-oidc-sample-app/BlazorWebAppOidc/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/kevingao/blazor-oidc-sample-app/BlazorWebAppOidc/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/kevingao/blazor-oidc-sample-app/BlazorWebAppOidc/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/kevingao/blazor-oidc-sample-app/BlazorWebAppOidc/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlazorWebAppOidc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BlazorWebAppOidc.props",
+      "PackagePath": "build\\BlazorWebAppOidc.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BlazorWebAppOidc.props",
+      "PackagePath": "buildMultiTargeting\\BlazorWebAppOidc.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BlazorWebAppOidc.props",
+      "PackagePath": "buildTransitive\\BlazorWebAppOidc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
