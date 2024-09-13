@@ -1,4 +1,6 @@
-# Blazor Web App with Descope as an OIDC Provider
+<img width="1400" alt="Screenshot 2024-09-12 at 7 57 46 PM" src="https://github.com/user-attachments/assets/e424bf3f-a540-4610-a156-69d8b552301e">
+
+# Blazor + Descope Sample App (OIDC)
 
 - A Blazor Web App with global Auto interactivity.
   - This adds `PersistingAuthenticationStateProvider` and `PersistentAuthenticationStateProvider` services to the server and client Blazor apps respectively to capture authentication state and flow it between the server and client.
