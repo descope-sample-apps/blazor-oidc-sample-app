@@ -22,10 +22,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/kevingao/blazor-oidc-sample-app/BlazorWebAppOidc.Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/kevingao/blazor-oidc-sample-app/BlazorWebAppOidc.Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/kevingao/blazor-oidc-sample-app/BlazorWebAppOidc.Client/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
