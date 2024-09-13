@@ -1,2 +1,61 @@
 # Permit the solution file for this sample app
 !*.sln
+
+# .NET specific
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Rider/JetBrains specific
+.idea/
+
+# Visual Studio Code
+.vscode/
+.vscode/*
+
+# Local History for JetBrains IDEs
+.localhistory/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Logs and databases
+*.log
+*.ldf
+*.mdf
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# MSBuild
+project.lock.json
+project.fragment.lock.json
+artifacts/
