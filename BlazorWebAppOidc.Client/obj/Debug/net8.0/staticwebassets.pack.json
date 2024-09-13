@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/kevingao/blazor-oidc-sample-app/BlazorWebAppOidc.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/kevingao/blazor-oidc-sample-app/BlazorWebAppOidc.Client/obj/Debug/net8.0/compressed/uar4wnk6g1.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/kevingao/blazor-oidc-sample-app/BlazorWebAppOidc.Client/obj/Debug/net8.0/scopedcss/projectbundle/BlazorWebAppOidc.Client.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlazorWebAppOidc.Client.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/kevingao/blazor-oidc-sample-app/BlazorWebAppOidc.Client/wwwroot/appsettings.Development.json",
+      "PackagePath": "staticwebassets/appsettings.Development.json"
+    },
+    {
+      "Id": "/Users/kevingao/blazor-oidc-sample-app/BlazorWebAppOidc.Client/wwwroot/appsettings.json",
+      "PackagePath": "staticwebassets/appsettings.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlazorWebAppOidc.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BlazorWebAppOidc.Client.props",
+      "PackagePath": "build\\BlazorWebAppOidc.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BlazorWebAppOidc.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorWebAppOidc.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BlazorWebAppOidc.Client.props",
+      "PackagePath": "buildTransitive\\BlazorWebAppOidc.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
