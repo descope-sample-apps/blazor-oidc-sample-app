@@ -63,14 +63,14 @@ builder.Services.AddAuthentication(MS_OIDC_SCHEME)
         // URL. This is used to get all of the additional OIDC endpoints that are
         // necessary to complete the login process with. 
 
-        oidcOptions.Authority = "{Application Issuer URL}";
+        oidcOptions.Authority = Environment.GetEnvironmentVariable("DESCOPE_ISSUER_URL");
         // ........................................................................
 
         // ........................................................................
         // Set the Client ID for the app. Set the {CLIENT ID} placeholder to
         // the Client ID.
 
-        oidcOptions.ClientId = "{Descope Project ID}";
+        oidcOptions.ClientId = Environment.GetEnvironmentVariable("DESCOPE_PROJECT_ID");
         // ........................................................................
         
         // ........................................................................
@@ -82,7 +82,7 @@ builder.Services.AddAuthentication(MS_OIDC_SCHEME)
         // for OIDC configuration is automatically read from 
         // "Authentication:Schemes:MicrosoftOidc:ClientSecret" configuration.
 
-        // oidcOptions.ClientSecret = "{PREFER NOT SETTING THIS HERE}";
+        oidcOptions.ClientSecret = Environment.GetEnvironmentVariable("DESCOPE_CLIENT_SECRET");
         // ........................................................................
 
         // ........................................................................
