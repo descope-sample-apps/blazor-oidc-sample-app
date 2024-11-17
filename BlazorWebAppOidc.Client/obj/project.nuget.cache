@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6mNG6WW4jXFGkvvIHECy/V0ojuiMQ1pIvPpV+o5L+ZdRekrXROhJlpLQOukIfro/2XfFiHJsKsIbb9bTxpel1w==",
+  "dgSpecHash": "jr282iPxosQ=",
   "success": true,
   "projectFilePath": "/Users/kevingao/blazor-oidc-sample-app/BlazorWebAppOidc.Client/BlazorWebAppOidc.Client.csproj",
   "expectedPackageFiles": [
@@ -33,13 +33,13 @@
     "/Users/kevingao/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/Users/kevingao/.nuget/packages/microsoft.jsinterop/8.0.0/microsoft.jsinterop.8.0.0.nupkg.sha512",
     "/Users/kevingao/.nuget/packages/microsoft.jsinterop.webassembly/8.0.0/microsoft.jsinterop.webassembly.8.0.0.nupkg.sha512",
-    "/Users/kevingao/.nuget/packages/microsoft.net.illink.tasks/8.0.4/microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
-    "/Users/kevingao/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.4/microsoft.net.sdk.webassembly.pack.8.0.4.nupkg.sha512",
+    "/Users/kevingao/.nuget/packages/microsoft.net.illink.tasks/8.0.8/microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "/Users/kevingao/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.8/microsoft.net.sdk.webassembly.pack.8.0.8.nupkg.sha512",
     "/Users/kevingao/.nuget/packages/system.diagnostics.diagnosticsource/8.0.0/system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "/Users/kevingao/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
     "/Users/kevingao/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/Users/kevingao/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
-    "/Users/kevingao/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.4/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.4.nupkg.sha512"
+    "/Users/kevingao/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.8/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.8.nupkg.sha512"
   ],
   "logs": []
 }
