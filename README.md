@@ -113,6 +113,10 @@ You can also set these values using application configuration files, such as `ap
 }
 ```
 
+### Name Claim
+
+In the `UserInfo.cs` we map the `Name` and `Sub` claim from the Descope JWT to the `UserInfo` class in the constructor. Make sure that your Descope JWT includes the name claim, with a [Custom Claim action](https://docs.descope.com/actions/custom-claims) in your flow or a [JWT Template](https://docs.descope.com/project-settings/jwt-templates). Otherwise the login will not be successful.
+
 ## Handling Custom Claims, Roles, and Permissions 🛠️
 
 ### Descope Custom Claims

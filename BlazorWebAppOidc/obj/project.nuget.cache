@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sM/D/upBiRUYyDN7/PB1TLMBGocuJQLXXHuPYLd/Ti3stfdSZLa5WI2ND2Vj+L1pceDKOCUgXlVkXjxxCxV71Q==",
+  "dgSpecHash": "94reU8lkQwE=",
   "success": true,
   "projectFilePath": "/Users/kevingao/blazor-oidc-sample-app/BlazorWebAppOidc/BlazorWebAppOidc.csproj",
   "expectedPackageFiles": [
